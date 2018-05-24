@@ -3,7 +3,7 @@ package tui
 import (
 	"image"
 
-	"github.com/gdamore/tcell"
+	"github.com/martinbaillie/tcell"
 )
 
 var _ UI = &tcellUI{}
